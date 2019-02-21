@@ -1,0 +1,1 @@
+Não foi possivel fazer o upload do arquivo csv fornecido pelo [Motivate](https://www.motivateco.com/) por conta do tamanho do arquivo, pode se encontra o mesmo [aqui](https://www.divvybikes.com/system-data)
